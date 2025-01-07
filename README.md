@@ -8,3 +8,6 @@ This is a simple and responsive job application form created using **HTML** and 
 - Clean and minimalistic design.
 - Responsive layout for different screen sizes.
 - Includes various form elements like text inputs, dropdowns, checkboxes, and buttons.
+
+### Link
+- https://akm2006.github.io/Application_Form/
